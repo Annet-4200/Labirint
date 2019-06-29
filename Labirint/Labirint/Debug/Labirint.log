@@ -1,0 +1,6 @@
+﻿  Labirint.cpp
+c:\users\annet\desktop\учеба\компьютерная графика\курсовая работа\labirint\labirint\labirint.cpp(14): warning C4005: CDS_FULLSCREEN: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winuser.h(12607): note: см. предыдущее определение "CDS_FULLSCREEN"
+c:\users\annet\desktop\учеба\компьютерная графика\курсовая работа\labirint\labirint\labirint.cpp(437): warning C4838: преобразование из "int" в "BYTE" требует сужающего преобразования
+  Labirint.vcxproj -> C:\Users\Annet\Desktop\Учеба\Компьютерная графика\Курсовая работа\Labirint\Debug\Labirint.exe
+  Labirint.vcxproj -> C:\Users\Annet\Desktop\Учеба\Компьютерная графика\Курсовая работа\Labirint\Debug\Labirint.pdb (Partial PDB)

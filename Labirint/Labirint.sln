@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Labirint", "Labirint\Labirint.vcxproj", "{76CA9809-262E-480A-9AB3-A7809391D5B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76CA9809-262E-480A-9AB3-A7809391D5B9}.Debug|x64.ActiveCfg = Debug|x64
+		{76CA9809-262E-480A-9AB3-A7809391D5B9}.Debug|x64.Build.0 = Debug|x64
+		{76CA9809-262E-480A-9AB3-A7809391D5B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{76CA9809-262E-480A-9AB3-A7809391D5B9}.Debug|x86.Build.0 = Debug|Win32
+		{76CA9809-262E-480A-9AB3-A7809391D5B9}.Release|x64.ActiveCfg = Release|x64
+		{76CA9809-262E-480A-9AB3-A7809391D5B9}.Release|x64.Build.0 = Release|x64
+		{76CA9809-262E-480A-9AB3-A7809391D5B9}.Release|x86.ActiveCfg = Release|Win32
+		{76CA9809-262E-480A-9AB3-A7809391D5B9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {350BF59C-9AB6-43AA-B165-104ACCC692DA}
+	EndGlobalSection
+EndGlobal
